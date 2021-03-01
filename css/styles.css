@@ -2,3 +2,18 @@ body {
     margin: 0;
     padding: 0;
 }
+
+.change {
+    position: fixed;
+    padding: 10px 20px;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.back {
+    left: 0;
+}
+
+.next {
+    right: 0;
+}
